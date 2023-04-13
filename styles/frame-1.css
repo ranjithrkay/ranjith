@@ -1,0 +1,362 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 104.9rem;
+}.frame-1-wmi {
+  box-sizing: border-box;
+  padding: 31.1rem 0rem 0rem 13.08rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  background-color: #ffffff;
+}
+.frame-1-wmi .auto-group-szoe-h8c {
+  margin: 0rem 21.7rem 0.074rem 21.62rem;
+  width: calc(100% - 43.3196rem);
+  height: 3.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU {
+  box-sizing: border-box;
+  padding-right: 4.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-d9mr-T9i {
+  margin-right: 5.3rem;
+  width: 8.5rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-d9mr-T9i .home-kuW {
+  width: 4.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-d9mr-T9i .home-cRv {
+  width: 4.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-d9mr-T9i .rectangle-4-7tU {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(1rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 2rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-d9mr-T9i .rectangle-10-QMn {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(1rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 2rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-ifeq-upL {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-ifeq-upL .about-FtC {
+  width: 4.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-ifeq-upL .about-n7S {
+  width: 4.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-ifeq-upL .rectangle-5-6tp {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.9rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.8rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-sdv8-vvU .auto-group-ifeq-upL .rectangle-11-ccG {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.9rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.8rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-7nuw-ivC {
+  margin-right: 5.3rem;
+  width: 8.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-7nuw-ivC .contact-U8g {
+  width: 5.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-7nuw-ivC .contact-nfA {
+  width: 5.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-7nuw-ivC .rectangle-6-J7i {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  filter: blur(1.25rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.7rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-7nuw-ivC .rectangle-12-oqA {
+  width: 8.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  filter: blur(1.25rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.7rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-gvz8-KoW {
+  width: 7.5rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-gvz8-KoW .skills-Gik {
+  width: 3.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-gvz8-KoW .skills-aUY {
+  width: 3.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-gvz8-KoW .rectangle-7-Hdr {
+  width: 7.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.9rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.4rem;
+}
+.frame-1-wmi .auto-group-szoe-h8c .auto-group-gvz8-KoW .rectangle-13-dBv {
+  width: 7.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.9rem);
+  background-color: rgba(217, 217, 217, 0.349999994);
+  border-radius: 1.4rem;
+}
+.frame-1-wmi .auto-group-sxwl-kGY {
+  margin: 0rem 2.8rem 14rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-sxwl-kGY .rectangle-14-UTS {
+  margin: 0rem 9.678rem 1.792rem 0rem;
+  width: 14.9418rem;
+  height: 38.4336rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-sxwl-kGY .hi-there-im-ranjith-student-designer-developer-zRn {
+  margin: 0rem 3.7rem 14.974rem 0rem;
+  max-width: 31.4rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-sxwl-kGY .hi-there-im-ranjith-student-designer-developer-zRn .hi-there-im-ranjith-student-designer-developer-zRn-sub-0 {
+}
+.frame-1-wmi .auto-group-sxwl-kGY .hi-there-im-ranjith-student-designer-developer-zRn .hi-there-im-ranjith-student-designer-developer-zRn-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: RocknRoll One, 'Source Sans Pro';
+}
+.frame-1-wmi .auto-group-sxwl-kGY .auto-group-8tpz-sGc {
+  margin-top: 19.3255rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-3-bg.png');
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-sxwl-kGY .auto-group-8tpz-sGc .rectangle-9-byJ {
+  width: 29.3rem;
+  height: 20.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-wmi .about-me-Jsi {
+  margin: 0rem 66.6rem 5.4rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-ycvu-RhS {
+  margin: 0rem 13.4rem 27.088rem 11.82rem;
+  width: calc(100% - 25.2196rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-ycvu-RhS .ellipse-1-9NY {
+  margin: 1rem 11.8rem 0rem 0rem;
+  width: 18.5rem;
+  height: 18.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-ycvu-RhS .im-student-pursuing-master-degree-in-master-of-computer-application-in-bsa-crescent-institute-of-science-and-technology-4VW {
+  margin-bottom: 1rem;
+  max-width: 36.3rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.4475;
+  color: #ffffff;
+  font-family: Shippori Mincho B1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-wmi .icon-instagram-KgL {
+  margin-bottom: 13.2553rem;
+  width: 3.7822rem;
+  height: 7.3378rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-wmi .auto-group-t8ze-qeg {
+  margin-bottom: 10.6516rem;
+  width: 9.3442rem;
+  height: 6.1543rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-wmi .icon-bell-Nec {
+  width: 3.8934rem;
+  height: 6.6277rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
